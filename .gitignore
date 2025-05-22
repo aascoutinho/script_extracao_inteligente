@@ -1,0 +1,27 @@
+# Ignora cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Arquivos temporários de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente virtual
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos Excel de entrada e saída
+*.xlsx
+
+# Arquivos de configuração pessoal
+*.env
+
+# Outros arquivos temporários
+*.bak
+*.tmp
